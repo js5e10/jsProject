@@ -1,0 +1,27 @@
+div {
+  width: 100px;
+  height:100px;
+  background-color: blue;
+  border:solid red;
+  border-radius: 10px;
+  display: inline-block;
+
+  text-align: center;
+  margin: 5px;
+  vertical-align: middle;
+  line-height: 100px;
+
+}
+
+.wrap{
+width: 470px;
+height:470px;
+background-color: black;
+align-items: center;
+vertical-align: middle;
+}
+
+.red{
+  background-color: red;
+
+}
